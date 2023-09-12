@@ -1,46 +1,60 @@
 ---
-title: "SDS410"
+title: "SDS410: Capstone in SDS"
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800">
+
+</iframe>
+
+
+# Lec 2.1: Tue 9/12
+
+1. Move the desks and sit with your groups
+1. Go over webpage
+1. Roster Google Sheet
+1. Documents for today
+    1. [Introduction to Teamwork](https://docs.google.com/document/u/1/d/1uqFmcTM7lKNowxxB0EV1LdimRctvC500BNAHf8ACD9Q/edit)
+    1. [Themes from Advice for Spring 23 Capstone from Fall 22 Capstone](https://docs.google.com/document/d/1dD-pfpLPEhuGSVi1JZhnEDoqGpPuZ0VaE3oB_KtN-ug/edit)
+    1. [SDS Capstone Sponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
+
+
+
+***
+
+
 
 # Lec 1.2: Thu 9/7
 
 ## 1. Announcements
 
-- Introductions
-- Go over [webpage](https://rudeboybert.github.io/SDS410/) and syllabus (click website tab)
-- Mantra board
-- Go over TODO's
-- Meet our [project sponsors](https://drive.google.com/drive/u/1/folders/1TrLOulA4ux3liGciRnmtvy8VvDa1jdBa)
-
-
+1. Introductions
+1. Go over [webpage](https://rudeboybert.github.io/SDS410/) and syllabus (click website tab)
+1. Mantra board
+1. Go over TODO's
+1. Meet our [project sponsors](https://drive.google.com/drive/u/1/folders/1TrLOulA4ux3liGciRnmtvy8VvDa1jdBa)
 
 
 ## 2. Immediate TODOs
 
 1. By **tomorrow Friday 9am** I need your info:
-    1. Complete [project selection form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSdkp5SoRzi4yWLc-prmAw6GFUT53O2Qwtk_a_x_xVnIz6LZcQ/viewform&sa=D&source=docs&ust=1694434817684137&usg=AOvVaw28QZ6kLyU_N_uPGOYQ1iOv)
-    1. Complete [intro survey](https://docs.google.com/forms/d/e/1FAIpQLSf_6W6yCNin1_SbwZMogj0lBbW5UjREcu8E1GRfABOZm2F0_g/viewforms)
+    1.  Complete [project selection form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSdkp5SoRzi4yWLc-prmAw6GFUT53O2Qwtk_a_x_xVnIz6LZcQ/viewform&sa=D&source=docs&ust=1694434817684137&usg=AOvVaw28QZ6kLyU_N_uPGOYQ1iOv)
+    2.  Complete [intro survey](https://docs.google.com/forms/d/e/1FAIpQLSf_6W6yCNin1_SbwZMogj0lBbW5UjREcu8E1GRfABOZm2F0_g/viewforms)
 1. By **tomorrow noon** I will create groups:
-    1. I will create 5 groups and match groups to sponsors
-    1. I will create channels in Slack for each group and add all members
-    1. I will designate an interim group leader to ensure Sunday TODOs are done
+    1.  I will create 5 groups and match groups to sponsors
+    2.  I will create channels in Slack for each group and add all members
+    3.  I will designate an interim group leader to ensure Sunday TODOs are done
 1. By **Sunday 5pm** contact sponsor by email to set weekly meeting time:
     1. Interim group leader will take charge just for this weekend and schedule group zoom meeting
     1. As a group, come up with 3-4 hour long time slots you can all meet for your weekly meeting with your sponsor
-    1. Designate someone to send email to sponsor (emails here: 410 Groups, Group Members), cc'ing all group members and me and Prof. Shiya Cao (who will be teaching capstone in the spring):
-akim04@smith.edu scao53@smith.edu 
-        1. Introduce yourselves as students in Smith College SDS’ capstone course
-        1. Include all proposed hour long time slots, ask if they work. I’ve communicated with the sponsors that this meeting should be an hour long and at a consistent time. 
-        1. State your appreciation for sponsors agreeing to give their time
+    1. Designate someone to send email to sponsor (emails here: 410 Groups, Group Members), cc'ing all group members and me and Prof. Shiya Cao (who will be teaching capstone in the spring): akim04\@smith.edu scao53\@smith.edu
+        1. Introduce yourselves as students in Smith College SDS' capstone course
+        1. Include all proposed hour long time slots, ask if they work. I've communicated with the sponsors that this meeting should be an hour long and at a consistent time.
+        1.State your appreciation for sponsors agreeing to give their time
 
-        
-        
+
 ## 3. TODOs for before Tuesday's lecture
 
 [Megan Lyster](https://www.google.com/url?q=https://www.smith.edu/academics/faculty/megan-lyster&sa=D&source=docs&ust=1694434775921986&usg=AOvVaw0cGjsP-inVcpQk5FLrNa-p) from Wurtele Center for first of four sessions on managing group dynamics:
 
 1. Read [Themes from Advice for Spring 23 Capstone from Fall 22 Capstone](https://docs.google.com/document/d/1dD-pfpLPEhuGSVi1JZhnEDoqGpPuZ0VaE3oB_KtN-ug/edit)
 1. Read [SDS Capstone Sponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
-

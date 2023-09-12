@@ -6,10 +6,9 @@ website:
   title: "SDS410"
   favicon: 410.png
   navbar:
-    left:
-      - text: "Groups & Members"
-        href: https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=50606575
     right:
+      - text: "Roster"
+        href: https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=50606575
       - text: "Syllabus"
         href: https://docs.google.com/document/d/e/2PACX-1vQokQEQfhXT3ndy2dRDQ03k-ml252KdGwVTKguUdzwsC777M5EkwQ89sO6Xl12w6gIx9mDerPfooyPP/pub
 
