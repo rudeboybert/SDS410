@@ -10,8 +10,8 @@ title: "SDS410: Capstone in SDS"
 # Lec 2.1: Tue 9/12
 
 1. Move the desks and sit with your groups
-1. Go over webpage
-1. Roster Google Sheet
+1. Go over webpage, in particular "Roster" Google Sheet
+1. In Slack `#general`, answer two polls on proposed readings for the semester.
 1. Documents for today
     1. [Introduction to Teamwork](https://docs.google.com/document/u/1/d/1uqFmcTM7lKNowxxB0EV1LdimRctvC500BNAHf8ACD9Q/edit)
     1. [Themes from Advice for Spring 23 Capstone from Fall 22 Capstone](https://docs.google.com/document/d/1dD-pfpLPEhuGSVi1JZhnEDoqGpPuZ0VaE3oB_KtN-ug/edit)
