@@ -10,14 +10,24 @@ title: "SDS410: Capstone in SDS"
 ***
 
 
+
 # Lec 2.2: Thu 9/14
 
-1. Textbook assigned: [Race After Technology](https://www.ruhabenjamin.com/race-after-technology)
-1. 
+1. Reading for the semester:
+    1. [Race After Technology](https://www.ruhabenjamin.com/)
+    1. Access eBook by clicking on link on top left
+    1. See schedule for readings
+    1. Look Roster Google Sheet, individuals tab
+1. Write down your [group norms](https://drive.google.com/drive/u/1/folders/1GKbMG3SfTthIhdxStvz_8cC7DMQNjBWE) from Lec 2.1
+1. Group norming exercise:
+    1. Go over and sign our new [capstone pponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
+    1. We will re-visit this during our blameless postmortem of semester during final lecture 15.2 on Thu 12/14
+1. Join [GitHub organization](https://github.com/orgs/sds-capstone/teams/2023-09-fall) for this course
 
 
 
 ***
+
 
 
 # Lec 2.1: Tue 9/12

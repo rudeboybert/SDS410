@@ -6,6 +6,9 @@ website:
   title: "SDS410"
   favicon: 410.png
   navbar:
+    left:
+      - text: "R.A.T."
+        href: https://ebookcentral.proquest.com/lib/smith/detail.action?docID=5820427
     right:
       - text: "Roster"
         href: https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=50606575
