@@ -22,7 +22,10 @@ title: "SDS410: Capstone in SDS"
 1. Group norming exercise:
     1. Go over and sign our new [capstone pponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
     1. We will re-visit this during our blameless postmortem of semester during final lecture 15.2 on Thu 12/14
-1. Join [GitHub organization](https://github.com/orgs/sds-capstone/teams/2023-09-fall) for this course
+1. Admin
+    1. Join [GitHub organization](https://github.com/orgs/sds-capstone/teams/2023-09-fall) for this course
+    1. Slack norms
+    1. [Playlist](https://open.spotify.com/playlist/7DotIpDU7lgiABDtGx2Sx6?si=81657e78591e4a0f )
 
 
 
