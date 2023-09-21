@@ -31,7 +31,7 @@ title: "SDS410: Capstone in SDS"
     1. *Scrum* is an agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices. [Video](https://www.atlassian.com/agile/scrum)
     1. *Kanban boards*: [Video](https://www.atlassian.com/agile/kanban)
 1. GitHub Projects Kanban board
-1. 
+1. GitHub issues
 
 ## For next class
 
