@@ -11,6 +11,38 @@ title: "SDS410: Capstone in SDS"
 
 
 
+# Lec 3.2: Thu 9/21
+
+## Announcements
+
+1. Mountain Day thoughts?
+1. Resources to learn new tech:
+      1. Full access to all [DataCamp courses](https://app.datacamp.com/) for duration of semester; check your smith.edu email for invitation. Note: DataCamp is not without [controversy](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup), but with an educational license no money is exchanged.
+      1. Full access to all [LinkedIn Learning](https://www.linkedin.com/learning/) curriculum. 
+1. Questions about ethics readings
+
+
+## Today
+
+1. Look at Roster Google Sheet, Groups tab, "Project GitHub Folder" column
+    1. Make sure you can see repo. If not, check email for GitHub.com invitation
+1. Terminology:
+    1. *Agile project management* is an iterative approach to delivering a project throughout its life cycle.
+    1. *Scrum* is an agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices. [Video](https://www.atlassian.com/agile/scrum)
+    1. *Kanban boards*: [Video](https://www.atlassian.com/agile/kanban)
+1. GitHub Projects Kanban board
+1. 
+
+## For next class
+
+Make sure you can clone, i.e. make a local copy, of your project repo. If you need a refresher, go to "Screencast" tab on top right and watch "2022-09-08 Cloning a GitHub repo"
+
+
+
+***
+
+
+
 # Lec 2.2: Thu 9/14
 
 1. Reading for the semester:
