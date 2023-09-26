@@ -11,6 +11,31 @@ title: "SDS410: Capstone in SDS"
 
 
 
+# Lec 4.1: Tue 9/26
+
+## Announcements
+
+1. Go to Roster Google Sheet and indicate whether you were able to clone your group's GitHub repo
+1. Ethics discussion on Thursday
+
+
+## Today
+
+Intermediate GitHub: Advanced collaboration (beyond just pushes, pulls, and commits).
+    
+1. GitHub repo branches: `master` (default) and new branches
+1. When to commit/push changes directly to `master` versus creating a branch
+1. What's the difference between creating a branch versus a fork?
+1. Pull requests: merge changes into other branches
+
+See screencasts tab on top-right of this page for demos on how to do this.
+
+
+
+***
+
+
+
 # Lec 3.2: Thu 9/21
 
 ## Announcements
