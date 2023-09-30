@@ -3,13 +3,20 @@ title: "SDS410: Capstone in SDS"
 ---
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800">
+
 </iframe>
 
+------------------------------------------------------------------------
+
+# Lec 5.1: Tue 10/3
+
+## Today
+
+1. 
 
 
-***
 
-
+------------------------------------------------------------------------
 
 # Lec 4.2: Thu 9/28
 
@@ -17,151 +24,124 @@ title: "SDS410: Capstone in SDS"
 
 Ethics discussions
 
-1. Intro - Group 5 Sittercity: Discussion topic 8 
-1. Part I - Group 1 Delfina: Discussion topic 13
-
+1.  Intro - Group 5 Sittercity: Discussion topic 8
+2.  Part I - Group 1 Delfina: Discussion topic 13
 
 ## Ethics reflection
 
-1. Go to Roster Google Sheet, Individuals tab
-1. In Google Doc: for both Intro and Part I, write your takeaways from the class discussion on the chosen topic number
-1. Max of two paragraphs for each reflection
-1. Due by Tue 10/3 before class. 
+1.  Go to Roster Google Sheet, Individuals tab
+2.  In Google Doc: for both Intro and Part I, write your takeaways from the class discussion on the chosen topic number
+3.  Max of two paragraphs for each reflection
+4.  Due by Tue 10/3 before class.
 
-
-
-
-***
-
-
+------------------------------------------------------------------------
 
 # Lec 4.1: Tue 9/26
 
 ## Announcements
 
-1. Go to Roster Google Sheet and indicate whether you were able to clone your group's GitHub repo
-1. Ethics discussion on Thursday
-
+1.  Go to Roster Google Sheet and indicate whether you were able to clone your group's GitHub repo
+2.  Ethics discussion on Thursday
 
 ## Today
 
 Intermediate GitHub: Advanced collaboration (beyond just pushes, pulls, and commits).
-    
-1. GitHub repo branches: `master` (default) and new branches
-1. When to commit/push changes directly to `master` versus creating a branch
-1. What's the difference between creating a branch versus a fork?
-1. Pull requests: merge changes into other branches
+
+1.  GitHub repo branches: `master` (default) and new branches
+2.  When to commit/push changes directly to `master` versus creating a branch
+3.  What's the difference between creating a branch versus a fork?
+4.  Pull requests: merge changes into other branches
 
 See screencasts tab on top-right of this page for demos on how to do this.
 
-
-
-***
-
-
+------------------------------------------------------------------------
 
 # Lec 3.2: Thu 9/21
 
 ## Announcements
 
-1. Mountain Day thoughts?
-1. Resources to learn new tech:
-      1. Full access to all [DataCamp courses](https://app.datacamp.com/) for duration of semester; check your smith.edu email for invitation. Note: DataCamp is not without [controversy](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup), but with an educational license no money is exchanged.
-      1. Full access to all [LinkedIn Learning](https://www.linkedin.com/learning/) curriculum. 
-1. Questions about ethics readings
-
+1.  Mountain Day thoughts?
+2.  Resources to learn new tech:
+    1.  Full access to all [DataCamp courses](https://app.datacamp.com/) for duration of semester; check your smith.edu email for invitation. Note: DataCamp is not without [controversy](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup), but with an educational license no money is exchanged.
+    2.  Full access to all [LinkedIn Learning](https://www.linkedin.com/learning/) curriculum.
+3.  Questions about ethics readings
 
 ## Today
 
-1. Look at Roster Google Sheet, Groups tab, "Project GitHub Folder" column
-    1. Make sure you can see repo. If not, check email for GitHub.com invitation
-1. Terminology:
-    1. *Agile project management* is an iterative approach to delivering a project throughout its life cycle.
-    1. *Scrum* is an agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices. [Video](https://www.atlassian.com/agile/scrum)
-    1. *Kanban boards*: [Video](https://www.atlassian.com/agile/kanban)
-1. GitHub Projects Kanban board
-1. GitHub issues
+1.  Look at Roster Google Sheet, Groups tab, "Project GitHub Folder" column
+    1.  Make sure you can see repo. If not, check email for GitHub.com invitation
+2.  Terminology:
+    1.  *Agile project management* is an iterative approach to delivering a project throughout its life cycle.
+    2.  *Scrum* is an agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices. [Video](https://www.atlassian.com/agile/scrum)
+    3.  *Kanban boards*: [Video](https://www.atlassian.com/agile/kanban)
+3.  GitHub Projects Kanban board
+4.  GitHub issues
 
 ## For next class
 
 Make sure you can clone, i.e. make a local copy, of your project repo. If you need a refresher, go to "Screencast" tab on top right and watch "2022-09-08 Cloning a GitHub repo"
 
-
-
-***
-
-
+------------------------------------------------------------------------
 
 # Lec 2.2: Thu 9/14
 
-1. Reading for the semester:
-    1. [Race After Technology](https://www.ruhabenjamin.com/)
-    1. Access eBook by clicking on link on top left
-    1. See schedule for readings
-    1. Look Roster Google Sheet, individuals tab
-1. Write down your [group norms](https://drive.google.com/drive/u/1/folders/1GKbMG3SfTthIhdxStvz_8cC7DMQNjBWE) from Lec 2.1
-1. Group norming exercise:
-    1. Go over and sign our new [capstone pponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
-    1. We will re-visit this during our blameless postmortem of semester during final lecture 15.2 on Thu 12/14
-1. Admin
-    1. Join [GitHub organization](https://github.com/orgs/sds-capstone/teams/2023-09-fall) for this course
-    1. Slack norms
-    1. [Playlist](https://open.spotify.com/playlist/7DotIpDU7lgiABDtGx2Sx6?si=81657e78591e4a0f )
+1.  Reading for the semester:
+    1.  [Race After Technology](https://www.ruhabenjamin.com/)
+    2.  Access eBook by clicking on link on top left
+    3.  See schedule for readings
+    4.  Look Roster Google Sheet, individuals tab
+2.  Write down your [group norms](https://drive.google.com/drive/u/1/folders/1GKbMG3SfTthIhdxStvz_8cC7DMQNjBWE) from Lec 2.1
+3.  Group norming exercise:
+    1.  Go over and sign our new [capstone pponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
+    2.  We will re-visit this during our blameless postmortem of semester during final lecture 15.2 on Thu 12/14
+4.  Admin
+    1.  Join [GitHub organization](https://github.com/orgs/sds-capstone/teams/2023-09-fall) for this course
+    2.  Slack norms
+    3.  [Playlist](https://open.spotify.com/playlist/7DotIpDU7lgiABDtGx2Sx6?si=81657e78591e4a0f)
 
-
-
-***
-
-
+------------------------------------------------------------------------
 
 # Lec 2.1: Tue 9/12
 
-1. Move the desks and sit with your groups
-1. Go over webpage, in particular "Roster" Google Sheet
-1. In Slack `#general`, answer two polls on proposed readings for the semester.
-1. Documents for today
-    1. [Introduction to Teamwork](https://docs.google.com/document/u/1/d/1uqFmcTM7lKNowxxB0EV1LdimRctvC500BNAHf8ACD9Q/edit)
-    1. [Themes from Advice for Spring 23 Capstone from Fall 22 Capstone](https://docs.google.com/document/d/1dD-pfpLPEhuGSVi1JZhnEDoqGpPuZ0VaE3oB_KtN-ug/edit)
-    1. [SDS Capstone Sponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
+1.  Move the desks and sit with your groups
+2.  Go over webpage, in particular "Roster" Google Sheet
+3.  In Slack `#general`, answer two polls on proposed readings for the semester.
+4.  Documents for today
+    1.  [Introduction to Teamwork](https://docs.google.com/document/u/1/d/1uqFmcTM7lKNowxxB0EV1LdimRctvC500BNAHf8ACD9Q/edit)
+    2.  [Themes from Advice for Spring 23 Capstone from Fall 22 Capstone](https://docs.google.com/document/d/1dD-pfpLPEhuGSVi1JZhnEDoqGpPuZ0VaE3oB_KtN-ug/edit)
+    3.  [SDS Capstone Sponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
 
-
-
-***
-
-
+------------------------------------------------------------------------
 
 # Lec 1.2: Thu 9/7
 
 ## 1. Announcements
 
-1. Introductions
-1. Go over [webpage](https://rudeboybert.github.io/SDS410/) and syllabus (click website tab)
-1. Mantra board
-1. Go over TODO's
-1. Meet our [project sponsors](https://drive.google.com/drive/u/1/folders/1TrLOulA4ux3liGciRnmtvy8VvDa1jdBa)
-
+1.  Introductions
+2.  Go over [webpage](https://rudeboybert.github.io/SDS410/) and syllabus (click website tab)
+3.  Mantra board
+4.  Go over TODO's
+5.  Meet our [project sponsors](https://drive.google.com/drive/u/1/folders/1TrLOulA4ux3liGciRnmtvy8VvDa1jdBa)
 
 ## 2. Immediate TODOs
 
-1. By **tomorrow Friday 9am** I need your info:
+1.  By **tomorrow Friday 9am** I need your info:
     1.  Complete [project selection form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSdkp5SoRzi4yWLc-prmAw6GFUT53O2Qwtk_a_x_xVnIz6LZcQ/viewform&sa=D&source=docs&ust=1694434817684137&usg=AOvVaw28QZ6kLyU_N_uPGOYQ1iOv)
     2.  Complete [intro survey](https://docs.google.com/forms/d/e/1FAIpQLSf_6W6yCNin1_SbwZMogj0lBbW5UjREcu8E1GRfABOZm2F0_g/viewforms)
-1. By **tomorrow noon** I will create groups:
+2.  By **tomorrow noon** I will create groups:
     1.  I will create 5 groups and match groups to sponsors
     2.  I will create channels in Slack for each group and add all members
     3.  I will designate an interim group leader to ensure Sunday TODOs are done
-1. By **Sunday 5pm** contact sponsor by email to set weekly meeting time:
-    1. Interim group leader will take charge just for this weekend and schedule group zoom meeting
-    1. As a group, come up with 3-4 hour long time slots you can all meet for your weekly meeting with your sponsor
-    1. Designate someone to send email to sponsor (emails here: 410 Groups, Group Members), cc'ing all group members and me and Prof. Shiya Cao (who will be teaching capstone in the spring): akim04\@smith.edu scao53\@smith.edu
-        1. Introduce yourselves as students in Smith College SDS' capstone course
-        1. Include all proposed hour long time slots, ask if they work. I've communicated with the sponsors that this meeting should be an hour long and at a consistent time.
-        1.State your appreciation for sponsors agreeing to give their time
-
+3.  By **Sunday 5pm** contact sponsor by email to set weekly meeting time:
+    1.  Interim group leader will take charge just for this weekend and schedule group zoom meeting
+    2.  As a group, come up with 3-4 hour long time slots you can all meet for your weekly meeting with your sponsor
+    3.  Designate someone to send email to sponsor (emails here: 410 Groups, Group Members), cc'ing all group members and me and Prof. Shiya Cao (who will be teaching capstone in the spring): akim04\@smith.edu scao53\@smith.edu
+        1.  Introduce yourselves as students in Smith College SDS' capstone course
+        2.  Include all proposed hour long time slots, ask if they work. I've communicated with the sponsors that this meeting should be an hour long and at a consistent time. 1.State your appreciation for sponsors agreeing to give their time
 
 ## 3. TODOs for before Tuesday's lecture
 
 [Megan Lyster](https://www.google.com/url?q=https://www.smith.edu/academics/faculty/megan-lyster&sa=D&source=docs&ust=1694434775921986&usg=AOvVaw0cGjsP-inVcpQk5FLrNa-p) from Wurtele Center for first of four sessions on managing group dynamics:
 
-1. Read [Themes from Advice for Spring 23 Capstone from Fall 22 Capstone](https://docs.google.com/document/d/1dD-pfpLPEhuGSVi1JZhnEDoqGpPuZ0VaE3oB_KtN-ug/edit)
-1. Read [SDS Capstone Sponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
+1.  Read [Themes from Advice for Spring 23 Capstone from Fall 22 Capstone](https://docs.google.com/document/d/1dD-pfpLPEhuGSVi1JZhnEDoqGpPuZ0VaE3oB_KtN-ug/edit)
+2.  Read [SDS Capstone Sponsor Agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link)
