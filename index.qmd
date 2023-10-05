@@ -6,22 +6,40 @@ title: "SDS410: Capstone in SDS"
 
 </iframe>
 
+
+
+
+
 ***
+
+
+
+# Lec 5.2: Thu 10/5
+
+## Today
+
+1. Try knitting in your group's repos: `term_paper/term_paper.Rmd`
+1. Answer poll question in Roster Google Sheet, Individuals tab
+1. Work on Sprint 1
+
+
+
+***
+
 
 # Lec 5.1: Tue 10/3
 
 ## Today
 
-1. Roster Google Sheet: Can you all clone your project repo?
-1. Code review exercies
-    1. Product owner/manager for Sprint 1 will upload the file I sent on Slack earlier to your repo
-    1. Each of you: Create a new branch
-    1. Each of you: Edit the file I sent. You can do this directly on GitHub.com
-    1. Each of you: Create pull request
-    1. Code review:
-1. See screencast if you forget any of these steps
-1. Work on Sprint 1
-
+1.  Roster Google Sheet: Can you all clone your project repo?
+2.  Code review exercies
+    1.  Product owner/manager for Sprint 1 will upload the file I sent on Slack earlier to your repo
+    2.  Each of you: Create a new branch
+    3.  Each of you: Edit the file I sent. You can do this directly on GitHub.com
+    4.  Each of you: Create pull request
+    5.  Code review:
+3.  See screencast if you forget any of these steps
+4.  Work on Sprint 1
 
 ***
 
