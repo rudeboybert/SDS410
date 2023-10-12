@@ -14,6 +14,18 @@ title: "SDS410: Capstone in SDS"
 
 
 
+# Lec 6.2: Thu 10/12
+
+## Today
+
+1. [Agenda](https://docs.google.com/document/d/1YRYBDR2P1Sorwhzg7C1eMFIQ8VnITBOcAKvHwaUYPTA/edit) for Sprint #1 retrospective
+1. 
+
+
+
+***
+
+
 # Lec 5.2: Thu 10/5
 
 ## Today

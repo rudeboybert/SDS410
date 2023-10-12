@@ -4,18 +4,25 @@
     "href": "index.html#today",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
-    "text": "Today\n\nTry knitting in your group’s repos: term_paper/term_paper.Rmd\nAnswer poll question in Roster Google Sheet, Individuals tab\nWork on Sprint 1"
+    "text": "Today\n\nAgenda for Sprint #1 retrospective"
   },
   {
     "objectID": "index.html#today-1",
     "href": "index.html#today-1",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
-    "text": "Today\n\nRoster Google Sheet: Can you all clone your project repo?\nCode review exercies\n\nProduct owner/manager for Sprint 1 will upload the file I sent on Slack earlier to your repo\nEach of you: Create a new branch\nEach of you: Edit the file I sent. You can do this directly on GitHub.com\nEach of you: Create pull request\nCode review:\n\nSee screencast if you forget any of these steps\nWork on Sprint 1"
+    "text": "Today\n\nTry knitting in your group’s repos: term_paper/term_paper.Rmd\nAnswer poll question in Roster Google Sheet, Individuals tab\nWork on Sprint 1"
   },
   {
     "objectID": "index.html#today-2",
     "href": "index.html#today-2",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Today",
+    "text": "Today\n\nRoster Google Sheet: Can you all clone your project repo?\nCode review exercies\n\nProduct owner/manager for Sprint 1 will upload the file I sent on Slack earlier to your repo\nEach of you: Create a new branch\nEach of you: Edit the file I sent. You can do this directly on GitHub.com\nEach of you: Create pull request\nCode review:\n\nSee screencast if you forget any of these steps\nWork on Sprint 1"
+  },
+  {
+    "objectID": "index.html#today-3",
+    "href": "index.html#today-3",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
     "text": "Today\nEthics discussions\n\nIntro - Group 5 Sittercity: Discussion topic 8\nPart I - Group 1 Delfina: Discussion topic 13"
@@ -35,8 +42,8 @@
     "text": "Announcements\n\nGo to Roster Google Sheet and indicate whether you were able to clone your group’s GitHub repo\nEthics discussion on Thursday"
   },
   {
-    "objectID": "index.html#today-3",
-    "href": "index.html#today-3",
+    "objectID": "index.html#today-4",
+    "href": "index.html#today-4",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
     "text": "Today\nIntermediate GitHub: Advanced collaboration (beyond just pushes, pulls, and commits).\n\nGitHub repo branches: master (default) and new branches\nWhen to commit/push changes directly to master versus creating a branch\nWhat’s the difference between creating a branch versus a fork?\nPull requests: merge changes into other branches\n\nSee screencasts tab on top-right of this page for demos on how to do this."
@@ -49,8 +56,8 @@
     "text": "Announcements\n\nMountain Day thoughts?\nResources to learn new tech:\n\nFull access to all DataCamp courses for duration of semester; check your smith.edu email for invitation. Note: DataCamp is not without controversy, but with an educational license no money is exchanged.\nFull access to all LinkedIn Learning curriculum.\n\nQuestions about ethics readings"
   },
   {
-    "objectID": "index.html#today-4",
-    "href": "index.html#today-4",
+    "objectID": "index.html#today-5",
+    "href": "index.html#today-5",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
     "text": "Today\n\nLook at Roster Google Sheet, Groups tab, “Project GitHub Folder” column\n\nMake sure you can see repo. If not, check email for GitHub.com invitation\n\nTerminology:\n\nAgile project management is an iterative approach to delivering a project throughout its life cycle.\nScrum is an agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices. Video\nKanban boards: Video\n\nGitHub Projects Kanban board\nGitHub issues"
@@ -82,5 +89,12 @@
     "title": "SDS410: Capstone in SDS",
     "section": "3. TODOs for before Tuesday’s lecture",
     "text": "3. TODOs for before Tuesday’s lecture\nMegan Lyster from Wurtele Center for first of four sessions on managing group dynamics:\n\nRead Themes from Advice for Spring 23 Capstone from Fall 22 Capstone\nRead SDS Capstone Sponsor Agreement"
+  },
+  {
+    "objectID": "sprints.html",
+    "href": "sprints.html",
+    "title": "Sprint retrospectivess",
+    "section": "",
+    "text": "Overview\nThree times a semester there will be a day where a sprint demo and sprint retrospective is held (see calendar for exact dates). This is an opportunity for a getting feedback and conducting a blameless postmortem on both:\n\nThe technical component of the project\nThe group dynamics component of the project\n\n\n\nSprint demo/review\nSprint demos provide a mechanism for the team to get feedback on work in progress in regular intervals. Sprint demos should:\n\ndemonstrate the current working behavior of any data science products\narticulate to stakeholders what was accomplished during the sprint\nreceive feedback from stakeholders\nsuggest a path forward during the next sprint\n\n\n\n\nSprint retrospective\nSprint retrospectives provide a mechanism for continually improving the working relationship among your team. Sprint retrospectives will be conducted in class following a sprint demo.\nSprint retros should include the following five sections:\n\nWhat went well in the sprint? (“I like…”)\nWhat could be improved? (“I wish…”)\nWhat will we commit to improve in the next Sprint? (“What if…”)\nHow can Albert and Megan help you?\nWho will be the Product Owner for the next sprint?\n\n\n\n\nProject presentations\nAt the end of the semester A presentation will be given by students to all sponsors, stakeholders, and the professor."
   }
 ]

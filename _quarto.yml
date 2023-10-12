@@ -9,6 +9,8 @@ website:
     left:
       - text: "R.A.T."
         href: https://ebookcentral.proquest.com/lib/smith/detail.action?docID=5820427
+      - text: "Sprints"
+        href: sprints.html    
     right:
       - text: "Screencasts"
         href: https://drive.google.com/drive/u/1/folders/1p18xWlvMDcWa1kw7XCNuorxabmxEbJW3

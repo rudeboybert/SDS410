@@ -1,0 +1,142 @@
+---
+title: "Sprint retrospectivess"
+---
+
+# Overview
+
+Three times a semester there will be a day where a sprint demo and sprint retrospective is held (see calendar for exact dates). This is an opportunity for a **getting feedback and conducting a blameless postmortem** on both:
+
+1.  The technical component of the project
+2.  The group dynamics component of the project
+
+
+# Sprint demo/review
+
+Sprint demos provide a mechanism for the team to get feedback on work in progress in regular intervals. Sprint demos should:
+
+-   demonstrate the current working behavior of any data science products
+-   articulate to stakeholders what was accomplished during the sprint
+-   receive feedback from stakeholders
+-   suggest a path forward during the next sprint
+
+```{r, eval=FALSE, echo=FALSE, message=FALSE, results='asis'}
+library(tidyverse)
+rubric <- tribble(
+  ~Criteria, ~One, ~Two, ~Three,
+  "Clarity",
+      "The work the group is doing does not align with the needs of the project sponsor",
+      "It's possible that the work being done might help to solve the problem, but it's not entirely clear how the pieces will fit together.",
+      "It is clear how the work the group has done will solve the project sponsor's problem",
+  "Focus", 
+      "One or two group members are driving the work and other group members seem unprepared, unfocused, or unsure of what they should be working on.", 
+      "All group members are working, but on entirely separate threads. Group members have little understanding of each other's threads.",
+      "All group members are clear about what they are working on and how it will contribute to the group's efforts as a whole",
+  "Progress",
+      "Little progress has been made since the previous sprint",
+      "Some progress has been made, but notably less than anticipated during sprint planning.",
+      "Considerable progress has been made since the previous sprint"
+)
+rubric %>%
+  knitr::kable(caption = "Sprint demo rubric")
+```
+
+
+
+------------------------------------------------------------------------
+
+
+
+# Sprint retrospective
+
+Sprint retrospectives provide a mechanism for continually improving the working relationship among your team. Sprint retrospectives will be conducted in class following a sprint demo.
+
+Sprint retros should include the following five sections:
+
+1.  What went well in the sprint? ("I like...")
+2.  What could be improved? ("I wish...")
+3.  What will we commit to improve in the next Sprint? ("What if...")
+4.  How can Albert and Megan help you?
+5.  Who will be the Product Owner for the next sprint?
+
+```{r, eval=FALSE, echo=FALSE, message=FALSE, results='asis'}
+library(tidyverse)
+rubric <- tribble(
+  ~Criteria, ~One, ~Two, ~Three,
+  "Overall Quality", 
+    "Little thought or effort was apparent in retrospective. Areas for improvement are impractical, vague, and/or irrelevant. Focus is on blame or shame, rather than potential improvement.", 
+    "Retrospective is honest but not insightful. Areas for improvement focus on general issues with time management, rather than concrete strategies. ",
+    "Retrospective is honest and thoughtful. Areas for improvement are clearly identified. Team seems committed and unified."
+)
+rubric %>%
+  knitr::kable(caption = "Sprint retrospective rubric")
+```
+
+```{r, eval=FALSE, echo=FALSE, message=FALSE, results='asis'}
+library(tidyverse)
+rubric <- tribble(
+  ~Criteria, ~One, ~Two, ~Three,
+  "Preparedness", 
+      "Some groups members seem unprepared, unfocused, or unsure of what they should be working on", 
+      "One or two group members are driving the work and one or two group members are working on loose threads", 
+      "All group members are clear about what they are working on and how it will contribute to the group's efforts as a whole",
+  "Progress",
+      "Group is still struggling with the same issues as last week",
+      "Last week's issues remain unresolved and have led to new issues",
+      "Last week's issues have been addressed and new issues have been raised"
+)
+rubric %>%
+  knitr::kable(caption = "Weekly lab reports rubric")
+```
+
+------------------------------------------------------------------------
+
+# Project presentations
+
+**At the end of the semester** A presentation will be given by students to all sponsors, stakeholders, and the professor.
+
+```{=html}
+<!--
+
+Presentations should be aimed at a broader audience: think about presenting your project to the full SDS faculty, or to other SDS students. You can assume that they are knowledgeable about general statistical topics (e.g., regression), but you can not assume that they know anything about your project or your project sponsor. 
+
+Here is some guidance:
+
+- You will want at least one slide, probably at the very beginning, explaining who your project sponsor is, and what they do. This is a good place to include a logo, picture, and/or website link. 
+- Resist the temptation to put many words on your slides. **Do not read your slides!** Slides should focus on visual cues for the audience, not a script for you to remember what to say! When you put words on slides, audience members start reading along with you and stop listening to what you are actually saying. It's also boring. 
+- Be liberal with your use of pictures, data graphics, data tables, diagrams, screenshots, and even logos. These give the audience something to look at while you are talking. 
+- Don't forget to have fun! The use of humorous GIFs, emojis, memes, and tweets are accepted practice in professional and academic presentations by data scientists. [Keep it clean and not too esoteric.]
+
+For more guidance, consult [Technically Speaking](http://techspeaking.denison.edu/Technically_Speaking/Home.html).
+
+-->
+```
+```{r, eval=FALSE, echo=FALSE, message=FALSE, results='asis'}
+library(tidyverse)
+rubric <- tribble(
+  ~Criteria, ~Two, ~Three, ~Four,
+  "Background & Context", "Audience had no idea what was being discussed", "Vaguely told audience what project was about; used jargon that was not explained", "Clearly explained what project was about", 
+#  "Eye Contact", "Didn't attempt to look at audience.", "Focused attention on only one part of the room", "Consistently made eye contact with audience at all times.", 
+  "Emphasis", "Audience wasn’t told or doesn't remember what the key points were", "Key points were mentioned but not highlighted", "Key points were clearly enunciated", 
+  "Enthusiasm", "Showed no interest in topic ", "Mostly on message with medium energy", "Conveyed strong positive feeling throughout presentation", 
+  "Mastery", "Major flaws in reasoning; obvious mistakes in interpretation and/or analysis", "Knowledge seems sufficient but not sophisticated", "Impressive mastery of material"
+)
+rubric %>%
+  knitr::kable(caption = "Presentation rubric")
+```
+
+```{r, eval=FALSE, echo=FALSE, message=FALSE, results='asis'}
+library(tidyverse)
+rubric <- tribble(
+  ~Criteria, ~One, ~Two, ~Three,
+  "Preparedness", 
+      "Some groups members seem unprepared, unfocused, or unsure of what they should be working on", 
+      "One or two group members are driving the work and one or two group members are working on loose threads", 
+      "All group members are clear about what they are working on and how it will contribute to the group's efforts as a whole",
+  "Progress",
+      "Group is still struggling with the same issues as last week",
+      "Last week's issues remain unresolved and have led to new issues",
+      "Last week's issues have been addressed and new issues have been raised"
+)
+rubric %>%
+  knitr::kable(caption = "Weekly lab reports rubric")
+```
