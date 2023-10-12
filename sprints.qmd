@@ -10,6 +10,11 @@ Three times a semester there will be a day where a sprint demo and sprint retros
 2.  The group dynamics component of the project
 
 
+
+------------------------------------------------------------------------
+
+
+
 # Agendas
 
 Here are the agendas for the 3 sprints demos/retrospectives this semester:
@@ -25,7 +30,7 @@ Here are the agendas for the 3 sprints demos/retrospectives this semester:
 
 
 
-# Sprint demo
+# Sprint demos x3
 
 Sprint demos provide a mechanism for the team to get feedback on work in progress in regular intervals. Sprint demos should (where in this case the stakeholder is just Prof. Kim):
 
@@ -36,8 +41,8 @@ Sprint demos provide a mechanism for the team to get feedback on work in progres
 
 Format:
 
-- No required format, just whatever you think is best for communication. Some groups were able to just show and narrate when they had in RStudio or a Jupyter Notebook, others made slides (that don't need to be perfectly polishe).
-- Each group has limited time so use your time wisely
+- No required format, just whatever you think is best for communication. Previously, some groups were able to just show and narrate when they had in RStudio or a Jupyter Notebook, others made slides that weren't perfectly polished.
+- Each group has limited time so use your time wisely.
 
 
 ```{r, eval=FALSE, echo=FALSE, message=FALSE, results='asis'}
@@ -67,9 +72,15 @@ rubric %>%
 
 
 
-# Sprint retrospective
+# Sprint retrospectives x3
 
-Sprint retrospectives provide a mechanism for continually improving the working relationship among your team. 
+Sprint retrospectives provide a mechanism for continually improving the working relationship among your team. Themes to be discussed include, but are not limited to:
+
+1. What went well in the sprint? ("I like...")
+1. What didn't go well in the sprint ("I don't like...")
+2. What could be improved? ("I wish...")
+3. What will we commit to improve in the next Sprint? ("What if...")
+4. How can Albert and Megan help you?
 
 After your retrospective session with Megan Lyster, you will return to your [Group Norms Google Doc](https://drive.google.com/drive/u/1/folders/1GKbMG3SfTthIhdxStvz_8cC7DMQNjBWE), go to the appropriate sprint number section, and write a retrospective based on the prompts given in the agenda above.
 
