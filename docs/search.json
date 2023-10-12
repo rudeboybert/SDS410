@@ -4,7 +4,7 @@
     "href": "index.html#today",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
-    "text": "Today\n\nNew tab on top-left of webpage Sprints"
+    "text": "Today\n\nAttempt 2: Knit term paper document. If you were NOT able to knit term_paper.Rmd last lecture:\n\nInstall the tinytex package\nRun tinytex::install_tinytex(). If you get a warning that “a LaTeX distribution may have existed in the system.” say yes anyways.\nOpen and close RStudio\nTry knitting term_paper/term_paper.Rmd again. If you get a warning that you need to run tinytex::reinstall_tinytex(), do so.\nIf are now able to knit, update your answer in the Roster Google Sheet -&gt; Individuals tab\nIf you were NOT able to knit the document, take a screenshot of your error message, go to Slack #general and reply to the thread with it.\n\nNew tab on top-left of webpage Sprints"
   },
   {
     "objectID": "index.html#today-1",

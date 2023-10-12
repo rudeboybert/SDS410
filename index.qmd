@@ -12,6 +12,13 @@ title: "SDS410: Capstone in SDS"
 
 ## Today
 
+1. Attempt 2: Knit term paper document. If you were **NOT** able to knit `term_paper.Rmd` last lecture: 
+    1. Install the `tinytex` package
+    1. Run `tinytex::install_tinytex()`. If you get a warning that "a LaTeX distribution may have existed in the system." say yes anyways.
+    1. Open and close RStudio
+    1. Try knitting `term_paper/term_paper.Rmd` again. If you get a warning that you need to run `tinytex::reinstall_tinytex()`, do so.
+    1. If are now able to knit, update your answer in the Roster Google Sheet -> Individuals tab
+    1. **If you were NOT able** to knit the document, take a screenshot of your error message, go to Slack `#general` and reply to the thread with it. 
 1.  New tab on top-left of webpage [Sprints](sprints.html)
 
 ------------------------------------------------------------------------
