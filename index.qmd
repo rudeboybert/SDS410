@@ -8,6 +8,24 @@ title: "SDS410: Capstone in SDS"
 
 ------------------------------------------------------------------------
 
+
+# Lec 7.1: Tue 10/17
+
+## Announcements
+
+1. Thursday: Ethics [discussion](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) Race After Technology - Part II. Two groups chosen at random from: Group 2 Federal Reserve, Group 3 Honda, Group 4 IBM. Reflection will be due Tue after 10/24.
+
+
+## Today
+
+1. Sprint 1 demos and retrospective [agenda](https://docs.google.com/document/d/1YRYBDR2P1Sorwhzg7C1eMFIQ8VnITBOcAKvHwaUYPTA/edit) for today
+1. Due before Thursday: Write down your notes/reflections for Retrospective 1 in your [Group Norms Google Doc](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=1908015001)
+
+
+
+------------------------------------------------------------------------
+
+
 # Lec 6.2: Thu 10/12
 
 ## Today
