@@ -16,6 +16,7 @@ title: "SDS410: Capstone in SDS"
 
 ## Today
 
+- Test editing and `term_paper.Rmd` committing changes to GitHub. 
 
 
 ------------------------------------------------------------------------
