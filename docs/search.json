@@ -4,74 +4,102 @@
     "href": "index.html#announcements",
     "title": "SDS410: Capstone in SDS",
     "section": "Announcements",
-    "text": "Announcements\n\nThursday: Ethics discussion Race After Technology - Part II. Two groups chosen at random from: Group 2 Federal Reserve, Group 3 Honda, Group 4 IBM. Reflection will be due Tue after 10/24."
+    "text": "Announcements"
   },
   {
     "objectID": "index.html#today",
     "href": "index.html#today",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
-    "text": "Today\n\nSprint 1 demos and retrospective agenda for today\nDue before Thursday: Write down your notes/reflections for Retrospective 1 in your Group Norms Google Doc"
+    "text": "Today"
   },
   {
     "objectID": "index.html#today-1",
     "href": "index.html#today-1",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
-    "text": "Today\n\nAttempt 2: Knit term paper document. If you were NOT able to knit term_paper.Rmd last lecture:\n\nInstall the tinytex package\nRun tinytex::install_tinytex(). If you get a warning that “a LaTeX distribution may have existed in the system.” say yes anyways.\nOpen and close RStudio\nTry knitting term_paper/term_paper.Rmd again. If you get a warning that you need to run tinytex::reinstall_tinytex(), do so.\nIf are now able to knit, update your answer in the Roster Google Sheet -&gt; Individuals tab\nIf you were NOT able to knit the document, take a screenshot of your error message, go to Slack #general and reply to the thread with it.\n\nNew tab on top-left of webpage Sprints"
-  },
-  {
-    "objectID": "index.html#today-2",
-    "href": "index.html#today-2",
-    "title": "SDS410: Capstone in SDS",
-    "section": "Today",
-    "text": "Today\n\nTry knitting in your group’s repos: term_paper/term_paper.Rmd\nAnswer poll question in Roster Google Sheet, Individuals tab\nWork on Sprint 1"
-  },
-  {
-    "objectID": "index.html#today-3",
-    "href": "index.html#today-3",
-    "title": "SDS410: Capstone in SDS",
-    "section": "Today",
-    "text": "Today\n\nRoster Google Sheet: Can you all clone your project repo?\nCode review exercies\n\nProduct owner/manager for Sprint 1 will upload the file I sent on Slack earlier to your repo\nEach of you: Create a new branch\nEach of you: Edit the file I sent. You can do this directly on GitHub.com\nEach of you: Create pull request\nCode review:\n\nSee screencast if you forget any of these steps\nWork on Sprint 1"
-  },
-  {
-    "objectID": "index.html#today-4",
-    "href": "index.html#today-4",
-    "title": "SDS410: Capstone in SDS",
-    "section": "Today",
-    "text": "Today\nEthics discussions\n\nIntro - Group 5 Sittercity: Discussion topic 8\nPart I - Group 1 Delfina: Discussion topic 13"
+    "text": "Today\nEthics discussions\n\nPart II - Group 3 Honda: Discussion topic 15\nPart II - Group 2 Federal Reserve : Discussion topic 16"
   },
   {
     "objectID": "index.html#ethics-reflection",
     "href": "index.html#ethics-reflection",
     "title": "SDS410: Capstone in SDS",
     "section": "Ethics reflection",
-    "text": "Ethics reflection\n\nGo to Roster Google Sheet, Individuals tab\nIn Google Doc: for both Intro and Part I, write your takeaways from the class discussion on the chosen topic number\nMax of two paragraphs for each reflection\nDue by Tue 10/3 before class."
+    "text": "Ethics reflection\n\nGo to Roster Google Sheet, Individuals tab\nIn Google Doc: Part II, write your takeaways from the class discussion on discussion topic. Photos of the whiteboard with the in-class discussion notes are on Slack in #general\nMax of two paragraphs for each reflection\nDue by Tue 10/24 before class."
   },
   {
     "objectID": "index.html#announcements-1",
     "href": "index.html#announcements-1",
     "title": "SDS410: Capstone in SDS",
     "section": "Announcements",
-    "text": "Announcements\n\nGo to Roster Google Sheet and indicate whether you were able to clone your group’s GitHub repo\nEthics discussion on Thursday"
+    "text": "Announcements\n\nThursday: Ethics discussion Race After Technology - Part II. Two groups chosen at random from: Group 2 Federal Reserve, Group 3 Honda, Group 4 IBM. Reflection will be due Tue after 10/24."
+  },
+  {
+    "objectID": "index.html#today-2",
+    "href": "index.html#today-2",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Today",
+    "text": "Today\n\nSprint 1 demos and retrospective agenda for today\nDue before Thursday: Write down your notes/reflections for Retrospective 1 in your Group Norms Google Doc"
+  },
+  {
+    "objectID": "index.html#today-3",
+    "href": "index.html#today-3",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Today",
+    "text": "Today\n\nAttempt 2: Knit term paper document. If you were NOT able to knit term_paper.Rmd last lecture:\n\nInstall the tinytex package\nRun tinytex::install_tinytex(). If you get a warning that “a LaTeX distribution may have existed in the system.” say yes anyways.\nOpen and close RStudio\nTry knitting term_paper/term_paper.Rmd again. If you get a warning that you need to run tinytex::reinstall_tinytex(), do so.\nIf are now able to knit, update your answer in the Roster Google Sheet -&gt; Individuals tab\nIf you were NOT able to knit the document, take a screenshot of your error message, go to Slack #general and reply to the thread with it.\n\nNew tab on top-left of webpage Sprints"
+  },
+  {
+    "objectID": "index.html#today-4",
+    "href": "index.html#today-4",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Today",
+    "text": "Today\n\nTry knitting in your group’s repos: term_paper/term_paper.Rmd\nAnswer poll question in Roster Google Sheet, Individuals tab\nWork on Sprint 1"
   },
   {
     "objectID": "index.html#today-5",
     "href": "index.html#today-5",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
-    "text": "Today\nIntermediate GitHub: Advanced collaboration (beyond just pushes, pulls, and commits).\n\nGitHub repo branches: master (default) and new branches\nWhen to commit/push changes directly to master versus creating a branch\nWhat’s the difference between creating a branch versus a fork?\nPull requests: merge changes into other branches\n\nSee screencasts tab on top-right of this page for demos on how to do this."
+    "text": "Today\n\nRoster Google Sheet: Can you all clone your project repo?\nCode review exercies\n\nProduct owner/manager for Sprint 1 will upload the file I sent on Slack earlier to your repo\nEach of you: Create a new branch\nEach of you: Edit the file I sent. You can do this directly on GitHub.com\nEach of you: Create pull request\nCode review:\n\nSee screencast if you forget any of these steps\nWork on Sprint 1"
+  },
+  {
+    "objectID": "index.html#today-6",
+    "href": "index.html#today-6",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Today",
+    "text": "Today\nEthics discussions\n\nIntro - Group 5 Sittercity: Discussion topic 8\nPart I - Group 1 Delfina: Discussion topic 13"
+  },
+  {
+    "objectID": "index.html#ethics-reflection-1",
+    "href": "index.html#ethics-reflection-1",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Ethics reflection",
+    "text": "Ethics reflection\n\nGo to Roster Google Sheet, Individuals tab\nIn Google Doc: for both Intro and Part I, write your takeaways from the class discussion on the chosen topic number\nMax of two paragraphs for each reflection\nDue by Tue 10/3 before class."
   },
   {
     "objectID": "index.html#announcements-2",
     "href": "index.html#announcements-2",
     "title": "SDS410: Capstone in SDS",
     "section": "Announcements",
+    "text": "Announcements\n\nGo to Roster Google Sheet and indicate whether you were able to clone your group’s GitHub repo\nEthics discussion on Thursday"
+  },
+  {
+    "objectID": "index.html#today-7",
+    "href": "index.html#today-7",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Today",
+    "text": "Today\nIntermediate GitHub: Advanced collaboration (beyond just pushes, pulls, and commits).\n\nGitHub repo branches: master (default) and new branches\nWhen to commit/push changes directly to master versus creating a branch\nWhat’s the difference between creating a branch versus a fork?\nPull requests: merge changes into other branches\n\nSee screencasts tab on top-right of this page for demos on how to do this."
+  },
+  {
+    "objectID": "index.html#announcements-3",
+    "href": "index.html#announcements-3",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Announcements",
     "text": "Announcements\n\nMountain Day thoughts?\nResources to learn new tech:\n\nFull access to all DataCamp courses for duration of semester; check your smith.edu email for invitation. Note: DataCamp is not without controversy, but with an educational license no money is exchanged.\nFull access to all LinkedIn Learning curriculum.\n\nQuestions about ethics readings"
   },
   {
-    "objectID": "index.html#today-6",
-    "href": "index.html#today-6",
+    "objectID": "index.html#today-8",
+    "href": "index.html#today-8",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
     "text": "Today\n\nLook at Roster Google Sheet, Groups tab, “Project GitHub Folder” column\n\nMake sure you can see repo. If not, check email for GitHub.com invitation\n\nTerminology:\n\nAgile project management is an iterative approach to delivering a project throughout its life cycle.\nScrum is an agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices. Video\nKanban boards: Video\n\nGitHub Projects Kanban board\nGitHub issues"
@@ -84,8 +112,8 @@
     "text": "For next class\nMake sure you can clone, i.e. make a local copy, of your project repo. If you need a refresher, go to “Screencast” tab on top right and watch “2022-09-08 Cloning a GitHub repo”"
   },
   {
-    "objectID": "index.html#announcements-3",
-    "href": "index.html#announcements-3",
+    "objectID": "index.html#announcements-4",
+    "href": "index.html#announcements-4",
     "title": "SDS410: Capstone in SDS",
     "section": "1. Announcements",
     "text": "1. Announcements\n\nIntroductions\nGo over webpage and syllabus (click website tab)\nMantra board\nGo over TODO’s\nMeet our project sponsors"
