@@ -8,6 +8,24 @@ title: "SDS410: Capstone in SDS"
 
 ------------------------------------------------------------------------
 
+# Lec 8.2: Thu 10/26
+
+## Announcements
+
+Ethics discussions
+
+1.  Part III - Group 4 IBM: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 15
+1.  Part III - Group 2 XXX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) XX
+
+
+## Today
+
+
+
+------------------------------------------------------------------------
+
+
+
 # Lec 8.1: Tue 10/24
 
 ## Announcements
@@ -29,8 +47,8 @@ title: "SDS410: Capstone in SDS"
 
 Ethics discussions
 
-1.  Part II - Group 3 Honda: Discussion topic 15
-1.  Part II - Group 2 Federal Reserve : Discussion topic 16
+1.  Part II - Group 3 Honda: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 15
+1.  Part II - Group 2 Federal Reserve : [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 16
 
 
 ## Ethics reflection
@@ -111,8 +129,8 @@ Ethics discussions
 
 Ethics discussions
 
-1.  Intro - Group 5 Sittercity: Discussion topic 8
-2.  Part I - Group 1 Delfina: Discussion topic 13
+1.  Intro - Group 5 Sittercity: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 8
+2.  Part I - Group 1 Delfina: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 13
 
 ## Ethics reflection
 
