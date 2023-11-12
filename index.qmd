@@ -8,6 +8,91 @@ title: "SDS410: Capstone in SDS"
 
 ------------------------------------------------------------------------
 
+
+<!--
+# Lec 11.2: Thu 11/16
+
+## Announcements
+
+1. Ethics discussions
+    1.  Part III - Group XXX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 21
+    1.  Part III - Group XX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 22
+    1. Complete Ethics Reflections by next lecture Tue 11/21
+1. Discuss term paper
+
+
+## Today
+
+
+------------------------------------------------------------------------
+
+
+--> 
+
+
+
+# Lec 11.1: Tue 11/14
+
+## Announcements
+
+- All groups: Email sponsor and cc me to schedule end of semester presentation to all stakeholders between Mon 12/18 and Wed 12/20
+- Ethics discussion on Thu 11/16 on Race After Technology Part IV. Groups 2-5 are up since Group 1 Delfina has gone twice so far. 
+
+## Today
+
+- Sprint 2 demo and retrospective today. Schedule to be posted by Monday.
+
+
+
+------------------------------------------------------------------------
+
+
+
+# Lec 10.2: Thu 11/9
+
+## Announcements
+
+- Prof Shiya Cao & Prof. Scott LaCombe substituting today
+- Sprint 2 demo and retrospective next lecture
+
+## Today
+
+- Work on Sprint II
+
+
+
+------------------------------------------------------------------------
+
+
+
+# Lec 10.1: Tue 11/7
+
+## Announcements
+
+- Prof Shiya Cao substituting today
+
+## Today
+
+- Work on Sprint II
+
+
+
+------------------------------------------------------------------------
+
+
+
+# Lec 9.1: Tue 10/31
+
+## Today
+
+- Work on Sprint II
+
+
+
+------------------------------------------------------------------------
+
+
+
 # Lec 8.2: Thu 10/26
 
 ## Announcements
