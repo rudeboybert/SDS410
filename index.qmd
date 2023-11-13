@@ -40,7 +40,8 @@ title: "SDS410: Capstone in SDS"
 
 ## Today
 
-- Sprint 2 demo and retrospective today. Schedule to be posted by Monday.
+1. Sprint 2 demos and retrospective [agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit) for today
+1. Due before Thursday: Write down your notes/reflections for Retrospective 2 in your [Group Norms Google Doc](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=1908015001)
 
 
 

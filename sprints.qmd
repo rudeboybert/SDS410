@@ -20,7 +20,7 @@ Three times a semester there will be a day where a sprint demo and sprint retros
 Here are the agendas for the 3 sprints demos/retrospectives this semester:
 
 1.  [Agenda](https://docs.google.com/document/d/1YRYBDR2P1Sorwhzg7C1eMFIQ8VnITBOcAKvHwaUYPTA/edit) for Sprint #1 demo & retrospective
-1.  Agenda for Sprint #2 demo & retrospective
+1.  [Agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit) for Sprint #2 demo & retrospective
 1.  Agenda for Sprint #3 demo & retrospective
 
 
