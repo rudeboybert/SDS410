@@ -2,7 +2,7 @@
 title: "SDS410: Capstone in SDS"
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="810">
 
 </iframe>
 
@@ -23,6 +23,7 @@ title: "SDS410: Capstone in SDS"
 
 ## Today
 
+1. Due before Thursday: Write down your notes/reflections for Retrospective 2 in your [Group Norms Google Doc](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=1908015001)
 
 ------------------------------------------------------------------------
 
@@ -35,13 +36,16 @@ title: "SDS410: Capstone in SDS"
 
 ## Announcements
 
-- All groups: Email sponsor and cc me to schedule end of semester presentation to all stakeholders between Mon 12/18 and Wed 12/20
-- Ethics discussion on Thu 11/16 on Race After Technology Part IV. Groups 2-5 are up since Group 1 Delfina has gone twice so far. 
+- Sprint 2 demos and retrospective [agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit) are moved to Tue 11/21 because Megan is sick today. Given tight schedule and importance of topics, on-time attendance is required.
+- Put on your radars:
+    - All groups need to schedule an end of project presentation to all sponsor stakeholders and myself between Mon 12/18 and Wed 12/20. Schedule this by emailing everyone as soon as exam schedule is released
+    - Term paper due Thu 12/21 3pm: Structure to be discussed this Thursday.
+- Ethics discussion this Thursday on Race After Technology Part IV. Groups 2-5 are up since Group 1 Delfina has gone twice so far. 
 
 ## Today
 
-1. Sprint 2 demos and retrospective [agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit) for today
-1. Due before Thursday: Write down your notes/reflections for Retrospective 2 in your [Group Norms Google Doc](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=1908015001)
+1. 
+
 
 
 

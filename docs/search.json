@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "sprints.html",
-    "href": "sprints.html",
-    "title": "Sprints",
-    "section": "",
-    "text": "Overview\nThree times a semester there will be a day where a sprint demo and sprint retrospective is held (see calendar for exact dates). This is an opportunity for a getting feedback and conducting a blameless postmortem on both:\n\nThe technical component of the project\nThe group dynamics component of the project\n\n\n\n\nAgendas\nHere are the agendas for the 3 sprints demos/retrospectives this semester:\n\nAgenda for Sprint #1 demo & retrospective\nAgenda for Sprint #2 demo & retrospective\nAgenda for Sprint #3 demo & retrospective\n\n\n\n\nSprint demos x3\nSprint demos provide a mechanism for the team to get feedback on work in progress in regular intervals. Sprint demos should (where in this case the stakeholder is just Prof. Kim):\n\ndemonstrate the current working behavior of any data science products\narticulate to stakeholders what was accomplished and what was not during the sprint\nreceive feedback from stakeholders\nsuggest a path forward during the next sprint\n\nFormat:\n\nNo required format, just whatever you think is best for communication. Previously, some groups were able to just show and narrate when they had in RStudio or a Jupyter Notebook, others made slides that weren’t perfectly polished.\nEach group has limited time so use your time wisely.\n\n\n\n\nSprint retrospectives x3\nSprint retrospectives provide a mechanism for continually improving the working relationship among your team. Themes to be discussed include, but are not limited to:\n\nWhat went well in the sprint? (“I like…”)\nWhat didn’t go well in the sprint (“I don’t like…”)\nWhat could be improved? (“I wish…”)\nWhat will we commit to improve in the next Sprint? (“What if…”)\nHow can Albert and Megan help you?\n\nAfter your retrospective session with Megan Lyster, you will return to your Group Norms Google Doc, go to the appropriate sprint number section, and write a retrospective based on the prompts given in the agenda above.\n\n\n\nProject presentations\nAt the end of the semester A presentation will be given by students to all sponsors, stakeholders, and the professor."
-  },
-  {
     "objectID": "index.html#announcements",
     "href": "index.html#announcements",
     "title": "SDS410: Capstone in SDS",
     "section": "Announcements",
-    "text": "Announcements\n\nAll groups: Email sponsor and cc me to schedule end of semester presentation to all stakeholders between Mon 12/18 and Wed 12/20\nEthics discussion on Thu 11/16 on Race After Technology Part IV. Groups 2-5 are up since Group 1 Delfina has gone twice so far."
+    "text": "Announcements\n\nSprint 2 demos and retrospective agenda are moved to Tue 11/21 because Megan is sick today. Given tight schedule and importance of topics, on-time attendance is required.\nPut on your radars:\n\nAll groups need to schedule an end of project presentation to all sponsor stakeholders and myself between Mon 12/18 and Wed 12/20. Schedule this by emailing everyone as soon as exam schedule is released\nTerm paper due Thu 12/21 3pm: Structure to be discussed this Thursday.\n\nEthics discussion this Thursday on Race After Technology Part IV. Groups 2-5 are up since Group 1 Delfina has gone twice so far."
   },
   {
     "objectID": "index.html#today",
     "href": "index.html#today",
     "title": "SDS410: Capstone in SDS",
     "section": "Today",
-    "text": "Today\n\nSprint 2 demos and retrospective agenda for today\nDue before Thursday: Write down your notes/reflections for Retrospective 2 in your Group Norms Google Doc"
+    "text": "Today"
   },
   {
     "objectID": "index.html#announcements-1",
@@ -201,5 +194,12 @@
     "title": "SDS410: Capstone in SDS",
     "section": "3. TODOs for before Tuesday’s lecture",
     "text": "3. TODOs for before Tuesday’s lecture\nMegan Lyster from Wurtele Center for first of four sessions on managing group dynamics:\n\nRead Themes from Advice for Spring 23 Capstone from Fall 22 Capstone\nRead SDS Capstone Sponsor Agreement"
+  },
+  {
+    "objectID": "sprints.html",
+    "href": "sprints.html",
+    "title": "Sprints",
+    "section": "",
+    "text": "Overview\nThree times a semester there will be a day where a sprint demo and sprint retrospective is held (see calendar for exact dates). This is an opportunity for a getting feedback and conducting a blameless postmortem on both:\n\nThe technical component of the project\nThe group dynamics component of the project\n\n\n\n\nAgendas\nHere are the agendas for the 3 sprints demos/retrospectives this semester:\n\nAgenda for Sprint #1 demo & retrospective\nAgenda for Sprint #2 demo & retrospective\nAgenda for Sprint #3 demo & retrospective\n\n\n\n\nSprint demos x3\nSprint demos provide a mechanism for the team to get feedback on work in progress in regular intervals. Sprint demos should (where in this case the stakeholder is just Prof. Kim):\n\ndemonstrate the current working behavior of any data science products\narticulate to stakeholders what was accomplished and what was not during the sprint\nreceive feedback from stakeholders\nsuggest a path forward during the next sprint\n\nFormat:\n\nNo required format, just whatever you think is best for communication. Previously, some groups were able to just show and narrate when they had in RStudio or a Jupyter Notebook, others made slides that weren’t perfectly polished.\nEach group has limited time so use your time wisely.\n\n\n\n\nSprint retrospectives x3\nSprint retrospectives provide a mechanism for continually improving the working relationship among your team. Themes to be discussed include, but are not limited to:\n\nWhat went well in the sprint? (“I like…”)\nWhat didn’t go well in the sprint (“I don’t like…”)\nWhat could be improved? (“I wish…”)\nWhat will we commit to improve in the next Sprint? (“What if…”)\nHow can Albert and Megan help you?\n\nAfter your retrospective session with Megan Lyster, you will return to your Group Norms Google Doc, go to the appropriate sprint number section, and write a retrospective based on the prompts given in the agenda above.\n\n\n\nProject presentations\nAt the end of the semester A presentation will be given by students to all sponsors, stakeholders, and the professor."
   }
 ]
