@@ -11,6 +11,8 @@ website:
         href: https://ebookcentral.proquest.com/lib/smith/detail.action?docID=5820427
       - text: "Sprints"
         href: sprints.html    
+      - text: "Term Paper"
+        href: term_paper.html  
     right:
       - text: "Screencasts"
         href: https://drive.google.com/drive/u/1/folders/1p18xWlvMDcWa1kw7XCNuorxabmxEbJW3

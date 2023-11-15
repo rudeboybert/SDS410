@@ -10,25 +10,34 @@ title: "SDS410: Capstone in SDS"
 
 
 <!--
+
+1. Due before Thursday: Write down your notes/reflections for Retrospective 2 in your [Group Norms Google Doc](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=1908015001)
+
+-->
+
+
 # Lec 11.2: Thu 11/16
 
 ## Announcements
 
-1. Ethics discussions
-    1.  Part III - Group XXX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 21
-    1.  Part III - Group XX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 22
-    1. Complete Ethics Reflections by next lecture Tue 11/21
-1. Discuss term paper
+1. In [Roster](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=50606575) Google Sheet, please fill in your attendance for Tuesday's Sprint 2 demo and retrospective.
+1. 
+
 
 
 ## Today
 
-1. Due before Thursday: Write down your notes/reflections for Retrospective 2 in your [Group Norms Google Doc](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=1908015001)
+1. Discuss term paper (click "Term Paper" tab on top left of webpage) 
+1. Ethics discussions   
+    1.  Part III - Group XXX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 21
+    1.  Part III - Group XX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 22
+    1. Complete Ethics Reflections by next lecture Tue 11/21
+
+
+
 
 ------------------------------------------------------------------------
 
-
---> 
 
 
 
