@@ -20,8 +20,8 @@ title: "SDS410: Capstone in SDS"
 
 ## Announcements
 
-1. In [Roster](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=50606575) Google Sheet, please fill in your attendance for Tuesday's Sprint 2 demo and retrospective.
-1. 
+1. ~~In [Roster](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=50606575) Google Sheet, please fill in your attendance for Tuesday's Sprint 2 demo and retrospective.~~
+1. Sprint 2 demo and retrospective are now Tuesday after the break:s [agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit)
 
 
 
@@ -29,8 +29,8 @@ title: "SDS410: Capstone in SDS"
 
 1. Discuss term paper (click "Term Paper" tab on top left of webpage) 
 1. Ethics discussions   
-    1.  Part IV - Group XXX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0)
-    1.  Part IV - Group XX: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0)
+    1.  Part IV - Group 5 - Sittercity: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 27
+    1.  Part IV - Group 4 IBM: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 26
     1. Complete Ethics Reflections by next lecture Tue 11/21
 
 
