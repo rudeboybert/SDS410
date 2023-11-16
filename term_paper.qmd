@@ -6,8 +6,7 @@ title: "Term Paper"
 
 Please follow the following guidelines for *all* phases of your final paper:
 
-- **All papers will be written in [R Markdown](https://rmarkdown.rstudio.com/)**.
-- All papers should use the `rticles::mdpi_article` template.
+- All papers will be written in [R Markdown](https://rmarkdown.rstudio.com/) using the `term_paper.Rmd` file. **Knit early, knit often.**
 - Use [BibTeX](https://en.wikipedia.org/wiki/BibTeX) for citations. Use [Google Scholar](https://scholar.google.com/) to gather reference information in BibTeX format (adjust manually where necessary). Include [`doi`](https://en.wikipedia.org/wiki/Digital_object_identifier) and/or `url` field in BibTeX entries. Insert citations into the body of the paper as appropriate [in R Markdown](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html). Cite R packages with information from `citation()`. You can start a `.bib` file with `knitr::write_bib()`. The `BibTeX database for this page looks [like this](refs.bib).
 - Include link to GitHub repository (where necessary) as a citation (even if it's private)!
 - Figures should be in a `figure` environment (in LaTeX). If the figure is generated as a plot in R, name the chunk and use the [`fig.cap` chunk option](https://bookdown.org/yihui/rmarkdown/r-code.html#figures). If the figure is an external image, use `knitr::include_graphics()`. All Figures must be referenced explicitly in the text by number. Figures should have expansive captions that tell the reader what they are supposed to see in the figure. All figures should have readable axis labels and explicit units. Figures should be mostly self-explanatory! Spend **more** time gussying up the figures -- not less! Recall [the SDS 192 standards](https://beanumber.github.io/sds192/standards.html) for Aesthetics, Context, and Markdown. 
