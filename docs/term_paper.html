@@ -158,19 +158,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#details-to-be-finalized-by-thu-1116s-lecture" id="toc-details-to-be-finalized-by-thu-1116s-lecture" class="nav-link active" data-scroll-target="#details-to-be-finalized-by-thu-1116s-lecture">Details to be finalized by Thu 11/16’s lecture</a></li>
-  <li><a href="#writing-for-data-science" id="toc-writing-for-data-science" class="nav-link" data-scroll-target="#writing-for-data-science">Writing for data science</a></li>
+  <li><a href="#writing-for-data-science" id="toc-writing-for-data-science" class="nav-link active" data-scroll-target="#writing-for-data-science">Writing for data science</a></li>
   <li><a href="#audience" id="toc-audience" class="nav-link" data-scroll-target="#audience">Audience</a>
   <ul class="collapse">
   <li><a href="#the-structure-of-a-scientific-paper" id="toc-the-structure-of-a-scientific-paper" class="nav-link" data-scroll-target="#the-structure-of-a-scientific-paper">The structure of a scientific paper</a></li>
-  <li><a href="#feedback-from-previous-drafts" id="toc-feedback-from-previous-drafts" class="nav-link" data-scroll-target="#feedback-from-previous-drafts">Feedback from previous drafts</a></li>
   <li><a href="#ethical-statement" id="toc-ethical-statement" class="nav-link" data-scroll-target="#ethical-statement">Ethical statement</a></li>
   </ul></li>
-  <li><a href="#drafts-and-rubrics" id="toc-drafts-and-rubrics" class="nav-link" data-scroll-target="#drafts-and-rubrics">Drafts and rubrics</a>
+  <li><a href="#recommended-phases" id="toc-recommended-phases" class="nav-link" data-scroll-target="#recommended-phases">Recommended Phases</a>
   <ul class="collapse">
-  <li><a href="#first-draft" id="toc-first-draft" class="nav-link" data-scroll-target="#first-draft">First draft</a></li>
-  <li><a href="#second-draft" id="toc-second-draft" class="nav-link" data-scroll-target="#second-draft">Second draft</a></li>
-  <li><a href="#final-draft" id="toc-final-draft" class="nav-link" data-scroll-target="#final-draft">Final draft</a></li>
+  <li><a href="#first-phase" id="toc-first-phase" class="nav-link" data-scroll-target="#first-phase">First phase</a></li>
+  <li><a href="#second-phase" id="toc-second-phase" class="nav-link" data-scroll-target="#second-phase">Second phase</a></li>
+  <li><a href="#final-phase" id="toc-final-phase" class="nav-link" data-scroll-target="#final-phase">Final phase</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -195,12 +193,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<section id="details-to-be-finalized-by-thu-1116s-lecture" class="level1">
-<h1>Details to be finalized by Thu 11/16’s lecture</h1>
-</section>
 <section id="writing-for-data-science" class="level1">
 <h1>Writing for data science</h1>
-<p>Please follow the following guidelines for <em>all</em> drafts of your final paper:</p>
+<p>Please follow the following guidelines for <em>all</em> phases of your final paper:</p>
 <ul>
 <li><strong>All papers will be written in <a href="https://rmarkdown.rstudio.com/">R Markdown</a></strong>.</li>
 <li>All papers should use the <code>rticles::mdpi_article</code> template.</li>
@@ -215,26 +210,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>wordcountaddin<span class="sc">::</span><span class="fu">text_stats</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<ul>
-<li>Limit your use of adverbs.</li>
-</ul>
-<blockquote class="twitter-tweet blockquote">
-<p lang="en" dir="ltr">
-So much of revision is realizing how useless 90% of adverbs are.
-</p>
-— Clint Smith (<span class="citation" data-cites="ClintSmithIII">@ClintSmithIII</span>) <a href="https://twitter.com/ClintSmithIII/status/1290772304801259521?ref_src=twsrc%5Etfw">August 4, 2020</a>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <hr>
 </section>
 <section id="audience" class="level1">
 <h1>Audience</h1>
-<p>Your final deliverable will be to write up your project as an academic paper. For your convenience, the format should conform to the <a href="https://www.causeweb.org/usproc/usresp">Undergraduate Research Project Competition (USRESP)</a> guidelines. If possible, you are strongly encouraged to submit your paper to the competition, but that decision will not affect your grade in this class. The paper should be 12–15 pages long, plus references, and an appendix (of arbitrary length) in which you can show more graphics, tables, etc.</p>
+<p>Your final deliverable will be to write up your project as an academic paper. For your convenience, the format should conform to the <a href="https://www.causeweb.org/usproc/usresp">Undergraduate Research Project Competition (USRESP)</a> guidelines. If possible, you are strongly encouraged to submit your paper to the competition, but that decision will not affect your grade in this class. As a rough guideline, the paper should be 8–10 pages long, plus references, and an appendix (of arbitrary length) in which you can show more graphics, tables, etc.</p>
 <ul>
-<li>Use your GitHub repository to write the paper. Put the paper contents into a subdirectory called <code>paper</code>.</li>
-<li>Use GitHub issues to delegate certain tasks to certain people, and to keep track of your progress.</li>
-<li>Use the <a href="https://github.com/rstudio/rticles"><code>rticles</code> packages</a> to write the paper in R Markdown.</li>
-<li>Use the MDPI format.</li>
+<li>Use your GitHub repository to write the paper. Put the paper contents into a subdirectory called <code>term_paper</code>.</li>
 <li>Due dates are in the schedule on the main page of the course webpage</li>
 <li>One submission per group.</li>
 </ul>
@@ -247,26 +229,9 @@ So much of revision is realizing how useless 90% of adverbs are.
 <li>Methods: What did you actually do? What techniques or methods did you employ? What were the specifications for any statistical models you used? What software or packages did you use or develop?</li>
 <li>Results: What did you learn about the problem you identified in Section 1? This is where you put the tables, figures, and analytics by-products of your work.</li>
 <li>Conclusion: What are the limitations of your work? What are some next steps that someone (either you or another research group) should consider in attempting to further your work? Remind us one last time about what you did.</li>
-</ol>
-<ul>
 <li>References: Every reference (except for books) needs a URL. Use Zotero and Google Scholar to help with BibTeX. Every book needs publisher location.</li>
-</ul>
-<p>Optionally, if you have more stuff:</p>
-<ul>
-<li>Appendix: Include supplementary graphs and tables in an appendix. The reader may or may not read the appendix.</li>
-</ul>
-</section>
-<section id="feedback-from-previous-drafts" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-from-previous-drafts">Feedback from previous drafts</h2>
-<p>The following common feedback applies to <strong>all</strong> groups. Please read carefully – these are <strong>mandatory</strong> recommendations.</p>
-<p>General feedback:</p>
-<ul>
-<li>Use an academic writing style. Use the present tense (in almost every case), even when writing about previously published papers or work that you did two months ago. Use “we” to describe your efforts. Avoid the <a href="https://en.wikipedia.org/wiki/Passive_voice">passive voice</a>!</li>
-<li>Use examples, screenshots, or peeks at data to illustrate what you are talking about.</li>
-<li>Don’t be afraid to get technical – this is a scientific paper. However, if you are going to invoke technical terms or concepts, you have to either explain them or give a citation to a reference that does.</li>
-<li>Focus on problems and solutions. What were the problems that your client had? How did you solve them? <strong>Don’t just narrate about what you did</strong> – connect the work that you did to the problems that existed before you started. If you find this hard to do, perhaps what you are writing about doesn’t need to be in the paper.</li>
-<li>Revise, then revise again.</li>
-</ul>
+<li>(Optional) Appendix: Include supplementary graphs and tables in an appendix. The reader may or may not read the appendix.</li>
+</ol>
 </section>
 <section id="ethical-statement" class="level2">
 <h2 class="anchored" data-anchor-id="ethical-statement">Ethical statement</h2>
@@ -278,11 +243,12 @@ So much of revision is realizing how useless 90% of adverbs are.
 <hr>
 </section>
 </section>
-<section id="drafts-and-rubrics" class="level1">
-<h1>Drafts and rubrics</h1>
-<section id="first-draft" class="level2">
-<h2 class="anchored" data-anchor-id="first-draft">First draft</h2>
-<p>Your first draft focuses on the mechanics of writing a journal paper in R Markdown. First, you have to get the template to compile. Second, you can fill in easy details about yourselves. Third, write a complete introductory section. This section should be complete and include a compreshensible description of your problem, and why the previous approaches to solving it were insufficient. Fourth, write a complete section about your data. What data do you have? How many rows and columns? What format? What are some basic summary statistics? [This is a good place to include a table.] Fifth, set up BibTeX and cite at least one reference in your introduction.</p>
+<section id="recommended-phases" class="level1">
+<h1>Recommended Phases</h1>
+<p>Following the principle of the “minimal viable product” I recommend you build out your paper by “thinking big, but starting small.” Note you do not need to make a submission at each phase, rather just the final one.</p>
+<section id="first-phase" class="level2">
+<h2 class="anchored" data-anchor-id="first-phase">First phase</h2>
+<p>Your first phase focuses on the mechanics of writing a journal paper in R Markdown. First, you have to get the template to compile. Second, you can fill in easy details about yourselves. Third, write a complete introductory section. This section should be complete and include a compreshensible description of your problem, and why the previous approaches to solving it were insufficient. Fourth, write a complete section about your data. What data do you have? How many rows and columns? What format? What are some basic summary statistics? [This is a good place to include a table.] Fifth, set up BibTeX and cite at least one reference in your introduction.</p>
 <p>Your submission should include:</p>
 <ul>
 <li>Title</li>
@@ -290,11 +256,10 @@ So much of revision is realizing how useless 90% of adverbs are.
 <li>Abstract</li>
 <li>Introduction (Section 1)</li>
 <li>Data (Section 2)</li>
-<li>References (using BibTeX, with at least one citation)</li>
 </ul>
 <div class="cell-output-display">
 <table class="table">
-<caption>Final paper first draft rubric</caption>
+<caption>Final paper first phase rubric</caption>
 <colgroup>
 <col style="width: 3%">
 <col style="width: 22%">
@@ -338,16 +303,16 @@ So much of revision is realizing how useless 90% of adverbs are.
 </table>
 </div>
 </section>
-<section id="second-draft" class="level2">
-<h2 class="anchored" data-anchor-id="second-draft">Second draft</h2>
-<p>Second draft criteria include everything in the first draft, plus:</p>
+<section id="second-phase" class="level2">
+<h2 class="anchored" data-anchor-id="second-phase">Second phase</h2>
+<p>Second phase criteria include everything in the first phase, plus:</p>
 <ul>
 <li>Methods (Section 3)</li>
 <li>Results (Section 4) – can be preliminary</li>
 </ul>
 <div class="cell-output-display">
 <table class="table">
-<caption>Final paper second draft rubric</caption>
+<caption>Final paper second phase rubric</caption>
 <colgroup>
 <col style="width: 1%">
 <col style="width: 22%">
@@ -365,7 +330,7 @@ So much of revision is realizing how useless 90% of adverbs are.
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">General</td>
-<td style="text-align: left;">Corrections from first draft were fully implemented. Methods section is imprecise and/or incomplete. Results section is sparse.</td>
+<td style="text-align: left;">Corrections from first phase were fully implemented. Methods section is imprecise and/or incomplete. Results section is sparse.</td>
 <td style="text-align: left;">Methods section contains too much narrative about what was tried, rather than focusing on what is important for the reader to know. Results section is largely incomplete and fails to drive home message.</td>
 <td style="text-align: left;">Methods section explains in appropriate scientific language what is important for the reader to know and how it was done. Results section drives home the message of the paper using fully-explained examples, figures, tables, etc.</td>
 </tr>
@@ -373,9 +338,9 @@ So much of revision is realizing how useless 90% of adverbs are.
 </table>
 </div>
 </section>
-<section id="final-draft" class="level2">
-<h2 class="anchored" data-anchor-id="final-draft">Final draft</h2>
-<p>Final draft criteria include everything in the first and second drafts, plus:</p>
+<section id="final-phase" class="level2">
+<h2 class="anchored" data-anchor-id="final-phase">Final phase</h2>
+<p>Final phase criteria include everything in the first and second phases, plus:</p>
 <ul>
 <li>Results (Section 4) – finalized</li>
 <li>Conclusion (Section 5)
@@ -389,7 +354,7 @@ So much of revision is realizing how useless 90% of adverbs are.
 </ul>
 <div class="cell-output-display">
 <table class="table">
-<caption>Final paper final draft rubric</caption>
+<caption>Final paper final phase rubric</caption>
 <colgroup>
 <col style="width: 3%">
 <col style="width: 36%">

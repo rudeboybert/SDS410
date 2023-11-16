@@ -2,11 +2,9 @@
 title: "Term Paper"
 ---
 
-# Details to be finalized by Thu 11/16's lecture
-
 # Writing for data science
 
-Please follow the following guidelines for *all* drafts of your final paper:
+Please follow the following guidelines for *all* phases of your final paper:
 
 - **All papers will be written in [R Markdown](https://rmarkdown.rstudio.com/)**.
 - All papers should use the `rticles::mdpi_article` template.
@@ -22,10 +20,6 @@ Please follow the following guidelines for *all* drafts of your final paper:
 wordcountaddin::text_stats()
 ```
 
-- Limit your use of adverbs. 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So much of revision is realizing how useless 90% of adverbs are.</p>&mdash; Clint Smith (@ClintSmithIII) <a href="https://twitter.com/ClintSmithIII/status/1290772304801259521?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 ***
@@ -34,12 +28,9 @@ wordcountaddin::text_stats()
 
 # Audience
 
-Your final deliverable will be to write up your project as an academic paper. For your convenience, the format should conform to the [Undergraduate Research Project Competition (USRESP)](https://www.causeweb.org/usproc/usresp) guidelines. If possible, you are strongly encouraged to submit your paper to the competition, but that decision will not affect your grade in this class. The paper should be 12--15 pages long, plus references, and an appendix (of arbitrary length) in which you can show more graphics, tables, etc. 
+Your final deliverable will be to write up your project as an academic paper. For your convenience, the format should conform to the [Undergraduate Research Project Competition (USRESP)](https://www.causeweb.org/usproc/usresp) guidelines. If possible, you are strongly encouraged to submit your paper to the competition, but that decision will not affect your grade in this class. As a rough guideline, the paper should be 8--10 pages long, plus references, and an appendix (of arbitrary length) in which you can show more graphics, tables, etc. 
 
-- Use your GitHub repository to write the paper. Put the paper contents into a subdirectory called `paper`.
-- Use GitHub issues to delegate certain tasks to certain people, and to keep track of your progress.
-- Use the [`rticles` packages](https://github.com/rstudio/rticles) to write the paper in R Markdown.
-- Use the MDPI format. 
+- Use your GitHub repository to write the paper. Put the paper contents into a subdirectory called `term_paper`.
 - Due dates are in the schedule on the main page of the course webpage
 - One submission per group.
 
@@ -54,26 +45,8 @@ Most commonly, research papers will have five sections like:
 3. Methods: What did you actually do? What techniques or methods did you employ? What were the specifications for any statistical models you used? What software or packages did you use or develop? 
 4. Results: What did you learn about the problem you identified in Section 1? This is where you put the tables, figures, and analytics by-products of your work. 
 5. Conclusion: What are the limitations of your work? What are some next steps that someone (either you or another research group) should consider in attempting to further your work? Remind us one last time about what you did. 
-* References: Every reference (except for books) needs a URL. Use Zotero and Google Scholar to help with BibTeX. Every book needs publisher location.
-
-
-Optionally, if you have more stuff:
-
-- Appendix: Include supplementary graphs and tables in an appendix. The reader may or may not read the appendix. 
-
-
-## Feedback from previous drafts
-
-The following common feedback applies to **all** groups. 
-Please read carefully -- these are **mandatory** recommendations. 
-
-General feedback:
-
-- Use an academic writing style. Use the present tense (in almost every case), even when writing about previously published papers or work that you did two months ago. Use "we" to describe your efforts. Avoid the [passive voice](https://en.wikipedia.org/wiki/Passive_voice)!
-- Use examples, screenshots, or peeks at data to illustrate what you are talking about. 
-- Don't be afraid to get technical -- this is a scientific paper. However, if you are going to invoke technical terms or concepts, you have to either explain them or give a citation to a reference that does. 
-- Focus on problems and solutions. What were the problems that your client had? How did you solve them? **Don't just narrate about what you did** -- connect the work that you did to the problems that existed before you started. If you find this hard to do, perhaps what you are writing about doesn't need to be in the paper. 
-- Revise, then revise again. 
+6. References: Every reference (except for books) needs a URL. Use Zotero and Google Scholar to help with BibTeX. Every book needs publisher location.
+7. (Optional) Appendix: Include supplementary graphs and tables in an appendix. The reader may or may not read the appendix. 
 
 
 ## Ethical statement
@@ -90,11 +63,13 @@ The ethical statement may be relegated to the appendix at your discretion.
 
 
 
-# Drafts and rubrics
+# Recommended Phases
 
-## First draft
+Following the principle of the "minimal viable product" I recommend you build out your paper by "thinking big, but starting small." Note you do not need to make a submission at each phase, rather just the final one. 
 
-Your first draft focuses on the mechanics of writing a journal paper in R Markdown. 
+## First phase
+
+Your first phase focuses on the mechanics of writing a journal paper in R Markdown. 
 First, you have to get the template to compile. 
 Second, you can fill in easy details about yourselves. 
 Third, write a complete introductory section. 
@@ -110,8 +85,6 @@ Your submission should include:
 - Abstract
 - Introduction (Section 1)
 - Data (Section 2)
-- References (using BibTeX, with at least one citation)
-
 
 ```{r, echo=FALSE, message=FALSE, results='asis'}
 library(tidyverse)
@@ -135,13 +108,13 @@ rubric <- tribble(
       "Description of data is clear and comprehensive. Basic summary statistics are included in neat, readable tables. Key variables are well-defined and summarized in tables or figures, with units made explicit. "
 )
 rubric %>%
-  knitr::kable(caption = "Final paper first draft rubric")
+  knitr::kable(caption = "Final paper first phase rubric")
 ```
 
 
-## Second draft
+## Second phase
 
-Second draft criteria include everything in the first draft, plus:
+Second phase criteria include everything in the first phase, plus:
 
 - Methods (Section 3)
 - Results (Section 4) -- can be preliminary
@@ -151,17 +124,17 @@ library(tidyverse)
 rubric <- tribble(
   ~Criteria, ~Ten, ~Eleven, ~Twelve,
   "General",
-    "Corrections from first draft were fully implemented. Methods section is imprecise and/or incomplete. Results section is sparse. ",
+    "Corrections from first phase were fully implemented. Methods section is imprecise and/or incomplete. Results section is sparse. ",
     "Methods section contains too much narrative about what was tried, rather than focusing on what is important for the reader to know. Results section is largely incomplete and fails to drive home message. ",
     "Methods section explains in appropriate scientific language what is important for the reader to know and how it was done. Results section drives home the message of the paper using fully-explained examples, figures, tables, etc. "
 )
 rubric %>%
-  knitr::kable(caption = "Final paper second draft rubric")
+  knitr::kable(caption = "Final paper second phase rubric")
 ```
 
-## Final draft
+## Final phase
 
-Final draft criteria include everything in the first and second drafts, plus:
+Final phase criteria include everything in the first and second phases, plus:
 
 - Results (Section 4) -- finalized
 - Conclusion (Section 5)
@@ -190,5 +163,5 @@ rubric <- tribble(
 
 )
 rubric %>%
-  knitr::kable(caption = "Final paper final draft rubric")
+  knitr::kable(caption = "Final paper final phase rubric")
 ```
