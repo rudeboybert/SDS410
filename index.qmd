@@ -16,6 +16,21 @@ title: "SDS410: Capstone in SDS"
 -->
 
 
+# Lec 12.1: Tue 11/21
+
+## Announcements
+
+* **LECTURE CANCELLED TODAY**
+* The ethics reflection for Part IV is still due on today
+* Reminder: **on-time attendance** for the now two-week delayed 2nd Sprint demo and retrospective on Tue 11/28 is required 
+* After the break, we only have two lectures where you’ll be working in-class, so I **highly** recommend you distribute and put work into your papers. Even if your results aren’t finalized, you can still get a lot of work done for Phases 1 and 2. 
+
+
+
+------------------------------------------------------------------------
+
+
+
 # Lec 11.2: Thu 11/16
 
 ## Announcements
