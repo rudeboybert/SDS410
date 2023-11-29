@@ -16,6 +16,44 @@ title: "SDS410: Capstone in SDS"
 -->
 
 
+# Lec 13.2: Thu 11/30
+
+## Announcements
+
+1. Final presentation confirmation: Send me a calendar invite with zoom link
+1. Final TODO's for this course
+1. Where does ethics reflection for final paper go?
+
+
+## Today
+
+1. Ethics discussions   
+    1.  Part V - Group 2 - Federal Reserve Bank: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 
+    1.  Part V - Group 3 - Honda: [Discussion topic](https://www.dropbox.com/s/p4x4bzn4fl8126s/RAT%20Discussion%20Guide.pdf?dl=0) 
+    1. Complete Ethics Reflections by next lecture Tue 12/4
+
+
+
+------------------------------------------------------------------------
+
+
+
+# Lec 13.1: Tue 11/28
+
+## Announcements
+
+* 
+
+## Today
+
+* Sprint 2 demo and retrospective: [agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit)
+* 
+
+
+------------------------------------------------------------------------
+
+
+
 # Lec 12.1: Tue 11/21
 
 ## Announcements
@@ -36,7 +74,7 @@ title: "SDS410: Capstone in SDS"
 ## Announcements
 
 1. ~~In [Roster](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=50606575) Google Sheet, please fill in your attendance for Tuesday's Sprint 2 demo and retrospective.~~
-1. Sprint 2 demo and retrospective are now Tuesday after the break:s [agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit)
+1. Sprint 2 demo and retrospective are now Tuesday after the break: [agenda](https://docs.google.com/document/d/1gSzAzhvCA0ShQIjy0GWsBMOUwqkHANp2w2q9Xe8uXdo/edit)
 
 
 
