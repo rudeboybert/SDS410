@@ -11,7 +11,8 @@ title: "SDS410: Capstone in SDS"
 
 <!--
 
-1. Due before Thursday: Write down your notes/reflections for Retrospective 2 in your [Group Norms Google Doc](https://docs.google.com/spreadsheets/d/1eTXqqSXiLjZozH0XwhP5eCIwhPKaiwxIf3VvgyN-Sbw/edit#gid=1908015001)
+1. Simplify syllabus and number of reflections
+1. Clearer
 
 -->
 
@@ -21,8 +22,25 @@ title: "SDS410: Capstone in SDS"
 ## Announcements
 
 1. Final presentation confirmation: Send me a calendar invite with zoom link
-1. Final TODO's for this course
-1. Where does ethics reflection for final paper go?
+1. Where does ethics reflection for final paper go? As a separate document from `term_paper.Rmd`
+
+
+## Checklist of TODO's for semester
+
+1. Ethics: In Roster Google Sheet -> Individuals tab -> Your copy of Ethics Reflections Google Doc -> there should be:
+    1. One reflection for all 6 Chapters of Race After Technology
+    1. In Final Reflections section: One ~~1500 word essay~~ two-paragraph summary of your take-home message of Race After Technology
+1. Project:
+    1. 3 Sprint Demos + Retrospectives: In Roster Google Sheet -> Groups tab -> Group norms Google Docs -> the following sections should be completed:
+        1. Group Norms
+        1. Retrospective 1 notes
+        1. Retrospective 2 notes
+        1. Retrospective 3 notes
+    1. 8-10 page `term_paper.Rmd` PDF submission
+    1. Ethical statement in separate document
+1. Participation - Independent learning assessment: In Roster Google Sheet -> Individuals tab -> Your copy of Ethics Reflections Google Doc -> A one-paragraph summary of the top things you've learned this semester. You can discuss either or both of 
+    1. Technical learnings
+    1. Group and interpersonal relationship dynamic learnings (both among yourself and with your sponsor)
 
 
 ## Today

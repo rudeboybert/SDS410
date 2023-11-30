@@ -4,7 +4,14 @@
     "href": "index.html#announcements",
     "title": "SDS410: Capstone in SDS",
     "section": "Announcements",
-    "text": "Announcements\n\nFinal presentation confirmation: Send me a calendar invite with zoom link\nFinal TODO’s for this course\nWhere does ethics reflection for final paper go?"
+    "text": "Announcements\n\nFinal presentation confirmation: Send me a calendar invite with zoom link\nWhere does ethics reflection for final paper go? As a separate document from term_paper.Rmd"
+  },
+  {
+    "objectID": "index.html#checklist-of-todos-for-semester",
+    "href": "index.html#checklist-of-todos-for-semester",
+    "title": "SDS410: Capstone in SDS",
+    "section": "Checklist of TODO’s for semester",
+    "text": "Checklist of TODO’s for semester\n\nEthics: In Roster Google Sheet -&gt; Individuals tab -&gt; Your copy of Ethics Reflections Google Doc -&gt; there should be:\n\nOne reflection for all 6 Chapters of Race After Technology\nIn Final Reflections section: One 1500 word essay two-paragraph summary of your take-home message of Race After Technology\n\nProject:\n\n3 Sprint Demos + Retrospectives: In Roster Google Sheet -&gt; Groups tab -&gt; Group norms Google Docs -&gt; the following sections should be completed:\n\nGroup Norms\nRetrospective 1 notes\nRetrospective 2 notes\nRetrospective 3 notes\n\n8-10 page term_paper.Rmd PDF submission\nEthical statement in separate document\n\nParticipation - Independent learning assessment: In Roster Google Sheet -&gt; Individuals tab -&gt; Your copy of Ethics Reflections Google Doc -&gt; A one-paragraph summary of the top things you’ve learned this semester. You can discuss either or both of\n\nTechnical learnings\nGroup and interpersonal relationship dynamic learnings (both among yourself and with your sponsor)"
   },
   {
     "objectID": "index.html#today",
@@ -263,7 +270,7 @@
     "href": "term_paper.html#ethical-statement",
     "title": "Term Paper",
     "section": "Ethical statement",
-    "text": "Ethical statement\nYour final paper must include an ethical statement. The ethical statement may be relegated to the appendix at your discretion.\n\nDrawing on what you have learned about data science ethics in this class, discuss any ethical considerations in your project. For some projects, this statement could be quite short (one paragraph may suffice). For other projects, more detail may be needed (no more than 2 pages).\nBe expansive and creative in your thinking about possible ethical considerations. One way to do this assignment poorly would be to write a short statement asserting that there are no ethical considerations, only to have me think of several fairly obvious ones."
+    "text": "Ethical statement\nYour final paper must include an ethical statement as a separate document. The ethical statement may be relegated to the appendix at your discretion.\n\nDrawing on what you have learned about data science ethics in this class, discuss any ethical considerations in your project. For some projects, this statement could be quite short (one paragraph may suffice). For other projects, more detail may be needed (no more than 2 pages).\nBe expansive and creative in your thinking about possible ethical considerations. One way to do this assignment poorly would be to write a short statement asserting that there are no ethical considerations, only to have me think of several fairly obvious ones."
   },
   {
     "objectID": "term_paper.html#first-phase",

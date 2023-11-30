@@ -50,7 +50,7 @@ Most commonly, research papers will have five sections like:
 
 ## Ethical statement
 
-Your final paper **must** include an ethical statement. 
+Your final paper **must** include an ethical statement **as a separate document**. 
 The ethical statement may be relegated to the appendix at your discretion. 
 
 - Drawing on what you have learned about data science ethics in this class, discuss **any** ethical considerations in your project. For some projects, this statement could be quite short (one paragraph may suffice). For other projects, more detail may be needed (no more than 2 pages). 
