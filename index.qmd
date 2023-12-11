@@ -2,7 +2,7 @@
 title: "SDS410: Capstone in SDS"
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="810">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="820">
 
 </iframe>
 
@@ -15,6 +15,58 @@ title: "SDS410: Capstone in SDS"
 1. Clearer
 
 -->
+
+
+
+<!--
+
+# Lec 15.2: Thu 12/14
+
+## Announcements
+
+1. Fill out course evals
+1. Senior survey
+1. Expectations document
+1. Photo
+
+
+
+## Today
+
+1. Work on term paper
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+-->
+
+
+
+
+
+# Lec 15.1: Tue 12/12
+
+## Announcements
+
+1. Sprint 3 demos and retrospective [agenda](https://docs.google.com/document/d/1xCYHZDO2iIFrsAMxmR6hHOyGpIX2VbrbaPH2bn1ypRM/edit) for today
+1. Attendance on Thursday is required (will affect participation grade)
+1. Optional: Consider submitting your group's term paper to the [Undergraduate Research Project Competition (USRESP)](https://www.causeweb.org/usproc/usresp). Deadline is Wed December 20th, 2023.
+
+
+
+## Today
+
+1. Work on term paper
+
+
+
+
+------------------------------------------------------------------------
+
 
 
 # Lec 14.2: Thu 12/7
