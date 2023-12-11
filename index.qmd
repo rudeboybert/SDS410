@@ -2,7 +2,7 @@
 title: "SDS410: Capstone in SDS"
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="820">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbu3ro3ZPOf6oDatGpGSRTKPeopwoQcXUR0V_VmJEFrtnZ_Y0JpOP11R0bAqPp-P2qzupMNXT-oNd/pubhtml?gid=2049438587&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="830">
 
 </iframe>
 
