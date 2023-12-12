@@ -55,7 +55,7 @@ title: "SDS410: Capstone in SDS"
 
 1. Sprint 3 demos and retrospective [agenda](https://docs.google.com/document/d/1xCYHZDO2iIFrsAMxmR6hHOyGpIX2VbrbaPH2bn1ypRM/edit) for today
 1. Attendance on Thursday is required (will affect participation grade)
-1. Optional: Consider submitting your group's term paper to the [Undergraduate Research Project Competition (USRESP)](https://www.causeweb.org/usproc/usresp). Deadline is Wed December 20th, 2023.
+1. Optional: Consider submitting your group's term paper to the [Undergraduate Research Project Competition (USRESP)](https://www.causeweb.org/usproc/usresp) **with sponsor approval**. Deadline is Wed December 20th, 2023.
 
 
 
