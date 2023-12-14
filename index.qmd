@@ -18,34 +18,30 @@ title: "SDS410: Capstone in SDS"
 
 
 
-<!--
 
 # Lec 15.2: Thu 12/14
 
 ## Announcements
 
-1. What 90s culture + what makes you laugh?
-1. Fill out course evals
-1. Senior survey
-1. Expectations document
-1. Photo
-
-
+1. 
 
 ## Today
 
-1. Work on term paper
-
+1. Index card activity
+1. SDS alumnae initiative
+    1. Show database
+    1. [LinkedIn group](https://www.linkedin.com/groups/12867240/)
+1. Complete:
+    1. Senior SDS [exit survey](https://docs.google.com/forms/d/e/1FAIpQLSfOCQtwEBBTgk7vlAYUo7e53qggDVzx-4ge7QPMrLYnRrfJ7Q/viewform)
+    1. Course evaluations: Look for email sent by Dean of the College on Dec 8th
+1. Update [capstone sponsor agreement](https://drive.google.com/file/d/1fHtlKT0l9WHOJ1AHRDLk_MeD5ljOS6CC/view?usp=drive_link) document?
+1. Closing notes
+    1. 24J's
+    1. A little about me
 
 
 
 ------------------------------------------------------------------------
-
-
-
--->
-
-
 
 
 
